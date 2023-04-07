@@ -27,7 +27,7 @@ const VideoCard: NextPage<IProps> = ({post}: IProps) => {
     }
   }
 
-
+  
   return (
     <div className='flex flex-col border-b-2 border-gray-200 bp-6'>
       <div>
